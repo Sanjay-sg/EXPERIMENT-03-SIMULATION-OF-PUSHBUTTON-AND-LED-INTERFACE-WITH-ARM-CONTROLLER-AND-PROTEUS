@@ -1,6 +1,6 @@
 # EXPERIMENT 03 SIMULATION OF PUSHBUTTON AND LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
-## NAME: SANTHOSH S
-## REG.NO: 212224100052
+## NAME: SANJAY G
+## REG.NO: 212222230131
 ## DATE: 01/09/2025
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
